@@ -19,14 +19,14 @@
 }
 
 .releasedMovies{
-    width: 80%;
+    width: 76%;
     margin: 16px;
 }
 .releasedMovies li:hover{
     cursor: pointer;
 }
 .releasedMoviesSearch{
-    width:20%;
+    width:24%;
    
     margin: 16px;
 }

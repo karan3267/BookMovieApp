@@ -16,7 +16,7 @@ import javax.validation.constraints.*;
  * CitiesSummaryResponse
  */
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2023-02-26T18:34:21.792+05:30")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2023-02-26T22:53:11.754+05:30")
 
 public class CitiesSummaryResponse   {
   @JsonProperty("total_count")

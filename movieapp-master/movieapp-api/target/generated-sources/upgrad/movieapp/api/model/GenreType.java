@@ -14,7 +14,7 @@ import javax.validation.constraints.*;
  * GenreType
  */
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2023-02-26T18:34:21.701+05:30")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2023-02-26T22:53:11.374+05:30")
 
 public class GenreType   {
   @JsonProperty("id")

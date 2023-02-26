@@ -15,7 +15,7 @@ import javax.validation.constraints.*;
  * CreateMovieShowResponse
  */
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2023-02-26T18:34:22.402+05:30")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2023-02-26T22:53:13.729+05:30")
 
 public class CreateMovieShowResponse   {
   @JsonProperty("id")

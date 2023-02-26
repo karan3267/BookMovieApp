@@ -171,7 +171,7 @@ export default function Home({ baseUrl }) {
             </div>
             <div id="releasedMovies">
                 <div className="releasedMovies">
-                    <ImageList rowHeight={350} cols={4} gap={16} >
+                    <ImageList rowHeight={350} cols={4} gap={20} >
                         {releasedMovies.map(releasedMovie => (
 
                             <ImageListItem key={releasedMovie.id}>
