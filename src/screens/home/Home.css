@@ -1,0 +1,32 @@
+
+#upcomingMovies{
+    text-align: center;
+    background-color: #ff9999;
+    padding: 8px;
+    font-size: 1rem;
+}
+
+
+.upcomingMovies ul{
+    width: 100%;
+    max-height: 250px;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+}
+
+#releasedMovies{
+    display: flex;
+}
+
+.releasedMovies{
+    width: 80%;
+    margin: 16px;
+}
+.releasedMovies li:hover{
+    cursor: pointer;
+}
+.releasedMoviesSearch{
+    width:20%;
+   
+    margin: 16px;
+}
